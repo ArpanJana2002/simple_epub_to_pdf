@@ -24,3 +24,14 @@ Install required packages:
 
 ```bash
 pip install ebooklib beautifulsoup4 reportlab
+
+## 📁 Project Structure
+epub-to-pdf-converter/
+│
+├── epub_to_pdf.py          # Main script
+├── README.md               # This file
+├── requirements.txt        # Dependency list (optional)
+
+🔗 Links
+📘 EBookLib Docs: https://github.com/aerkalov/ebooklib
+🧾 ReportLab Docs: https://www.reportlab.com/docs/reportlab-userguide.pdf
